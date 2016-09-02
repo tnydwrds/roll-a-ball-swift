@@ -1,0 +1,3 @@
+[submodule "UnityAspect"]
+	path = UnityAspect
+	url = https://github.com/tnydwrds/unity-aspect.git

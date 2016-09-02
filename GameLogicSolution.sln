@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "GameLogic", "GameLogic\GameLogic.elements", "{F2F28B0D-7F97-45A1-8525-BBF4DEE6BC3B}"
+EndProject
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "UnityAspect", "UnityAspect\UnityAspect.elements", "{19A8D73B-A3C9-4ADE-A957-8EDBEBAED071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|AnyCPU = Release|AnyCPU
+		Debug|AnyCPU = Debug|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F28B0D-7F97-45A1-8525-BBF4DEE6BC3B}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{F2F28B0D-7F97-45A1-8525-BBF4DEE6BC3B}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{F2F28B0D-7F97-45A1-8525-BBF4DEE6BC3B}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{F2F28B0D-7F97-45A1-8525-BBF4DEE6BC3B}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{19A8D73B-A3C9-4ADE-A957-8EDBEBAED071}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{19A8D73B-A3C9-4ADE-A957-8EDBEBAED071}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{19A8D73B-A3C9-4ADE-A957-8EDBEBAED071}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{19A8D73B-A3C9-4ADE-A957-8EDBEBAED071}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,6 @@
 /[Ll]ibrary/
 /[Tt]emp/
-/[Oo]bj/
+*[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# RemObjects Fire
+*.fire.cache
